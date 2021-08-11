@@ -12,7 +12,7 @@ An open use case and pitch deck library to be used for outreach, awareness and e
 
 Ocean Protocol already supports a wide range of functionalities the Gaia-X federated services aim to provide. Ocean Protocol might allow the Gaia-X community and emerging European data economy to save years of development and integration time. By applying open-source distributed ledger technology and smart contracts, Europe can accelerate the development of Gaia-X for all European citizens, businesses, scientists, and governments.
 
-- **[📄 View the Gaia-X Use Case](/Ocean_Protocol_Use_Case-Gaia-X.pdf)**
+- **[📄 View the Gaia-X Use Case](/Ocean%20Protocol%20Use%20Case%20-%20Gaia-X.pdf)**
 - **[📝 Contribute to the Gaia-X Use Case](/markdown/Ocean_Protocol_Use_Case-Gaia-X.md)**
 
 
@@ -20,7 +20,7 @@ Ocean Protocol already supports a wide range of functionalities the Gaia-X feder
 
 While so far, the advance of AI has been paid with the privacy of the people on a global scale, data is typically kept in silos available to a few companies only. With Federated Learning on Ocean Protocol, society can benefit from faster progress in AI without compromising its privacy and losing control over its data. Instead of data that is kept in silos and available to few, data access can be monetized by anyone without intermediaries in a decentralized fashion. On the other hand, data consumers can improve their machine learning and prediction models with data being unlocked by Ocean Protocol. 
 
-- **[📄 View the Federated Learning Use Case](/Ocean_Protocol_Use_Case-Federated_Learning.pdf)**
+- **[📄 View the Federated Learning Use Case](/Ocean%20Protocol%20Use%20Case%20-%20Federated%20Learning.pdf)**
 - **[📝 Contribute to the Federated Learning Use Case](/markdown/Ocean_Protocol_Use_Case-Federated_Learning.md)**
 
 
@@ -28,7 +28,7 @@ While so far, the advance of AI has been paid with the privacy of the people on 
 
 An immutable data audit trail enhances transparency for and trust of participants in an open data marketplace. DLT based marketplaces like Ocean Protocol enable that all transactions are verified, stored, and audited in an ordered, transparent, and trustless way, and hence enable a Data Exchange Logging Service (DELS) by design.
 
-- **[📄 View the Data Audit Trail Use Case](/Ocean_Protocol_Use_Case-Data_Audit_Trail.pdf)**
+- **[📄 View the Data Audit Trail Use Case](/Ocean%20Protocol%20Use%20Case%20-%20Data%20Audit%20Trail.pdf)**
 - **[📝 Contribute to the Data Audit Trail Use Case](/markdown/Ocean_Protocol_Use_Case-Data_Audit_Trail.md)**
 
 
@@ -36,7 +36,7 @@ An immutable data audit trail enhances transparency for and trust of participant
 
 Compute-to-Data on a decentralized marketplace like Ocean Market enables free, open, transparent, secure, and privacy-preserving data sharing and monetization, where data owners keep full control over their data.
 
-- **[📄 View the Privacy Preserving Data Marketplaces Use Case](/Ocean_Protocol_Use_Case-Privacy_Preserving_Data_Marketplaces.pdf)**
+- **[📄 View the Privacy Preserving Data Marketplaces Use Case](/Ocean%20Protocol%20Use%20Case%20-%20Privacy%20Preserving%20Data%20Marketplaces.pdf)**
 - **[📝 Contribute to the Privacy Preserving Data Marketplaces Use Case](/markdown/Ocean_Protocol_Use_Case-Privacy_Preserving_Data_Marketplaces.md)**
 
 
