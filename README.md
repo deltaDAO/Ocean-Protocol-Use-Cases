@@ -37,6 +37,9 @@ Compute-to-Data on a decentralized marketplace like Ocean Market enables free, o
 
 
 
+---
+
+
 ## About deltaDAO
 deltaDAO is the first “Ocean Protocol” engineering, integration and consulting company, created, built, led, operated and owned by Ocean Protocol community members and supporters.
 
