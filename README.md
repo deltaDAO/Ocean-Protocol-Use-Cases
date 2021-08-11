@@ -12,8 +12,8 @@ An open use case and pitch deck library to be used for outreach, awareness and e
 
 Ocean Protocol already supports a wide range of functionalities the Gaia-X federated services aim to provide. Ocean Protocol might allow the Gaia-X community and emerging European data economy to save years of development and integration time. By applying open-source distributed ledger technology and smart contracts, Europe can accelerate the development of Gaia-X for all European citizens, businesses, scientists, and governments.
 
-**[📄 View the Gaia-X Use Case](/Ocean_Protocol_Use_Case-Gaia-X.pdf)**
-**[📝 Contribute to the Gaia-X Use Case](/markdown/Ocean_Protocol_Use_Case-Gaia-X.md)**
+- **[📄 View the Gaia-X Use Case](/Ocean_Protocol_Use_Case-Gaia-X.pdf)**
+- **[📝 Contribute to the Gaia-X Use Case](/markdown/Ocean_Protocol_Use_Case-Gaia-X.md)**
 
 
 ## ✳️ Federated Learning
