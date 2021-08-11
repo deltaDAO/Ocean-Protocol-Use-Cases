@@ -1,7 +1,7 @@
 # Ocean-Protocol-Use-Cases 🌊⛵️
 An open use case and pitch deck library to be used for outreach, awareness and early onboarding into the Ocean ecosystem.
 
-
+- [Gaia-X](Ocean Protocol Use Case - Gaia-X.pdf)
 
 ## About deltaDAO
 deltaDAO is the first “Ocean Protocol” engineering, integration and consulting company, created, built, led, operated and owned by Ocean Protocol community members and supporters.
