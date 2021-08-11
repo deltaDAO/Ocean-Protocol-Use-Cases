@@ -1,4 +1,5 @@
-# Gaia-X, A Federated European Data Infrastructure
+# Gaia-X
+> #### Gaia-X, A Federated European Data Infrastructure
 
 ### Abstract
 Ocean Protocol already supports a wide range of functionalities the Gaia-X federated services aim to provide. Ocean Protocol might allow the Gaia-X community and emerging European data economy to save years of development and integration time. By applying open-source distributed ledger technology and smart contracts, Europe can accelerate the development of Gaia-X for all European citizens, businesses, scientists, and governments.
